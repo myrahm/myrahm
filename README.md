@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name's Myrah, welcome to my Github Profile 💗
+
+- 🌱 I'm a 2nd year Computer Science at Toronto Metropolitan University (formerly Ryerson)
+- 🌨 My pronouns are she/her
+- 👩‍💻 I have a passion for everything Web Development/Design!
+- 🌷 Fun facts: I love painting and cooking in my free time!
+- 📫 Reach out to me on <a href="linkedin.com/in/myrah-mohammed-68014b166">LinkedIn</a>
+
 <!--
 **myrahm/myrahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
