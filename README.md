@@ -4,7 +4,7 @@ My name's Myrah, welcome to my Github Profile 💗
 
 - 🌱 I'm a 2nd year Computer Science at Toronto Metropolitan University (formerly Ryerson)
 - 🌨 My pronouns are she/her
-- 👩‍💻 I have a passion for Software Development!
+- 👩‍💻 I have a passion for everything UX/UI design and Web development!
 - 🌷 Fun facts: I love painting and cooking in my free time!
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/myrah-mohammed-68014b166/)
 
