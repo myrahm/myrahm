@@ -2,10 +2,10 @@
 
 my name's myrah, welcome to my github profile 💗
 
-- 🌱 i'm currently a 2nd year computer science at toronto metropolitan university (formerly ryerson)
+- 🌱 i'm currently a computer science at toronto metropolitan university (formerly ryerson)
 - 🌨 my pronouns are she/her
 - 👩‍💻 i have a passion for everything ux/ui design and software engineering/development!
-- 🌷 fun facts: i love painting in my free time!
+- 🌷 fun facts: i love baking in my free time!
 - 📫 reach out to me on [linkedIn](https://www.linkedin.com/in/myrah-mohammed-68014b166/)
 
 <!--
