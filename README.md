@@ -6,7 +6,6 @@ my name's myrah, welcome to my github profile 💗
 - 🌨 my pronouns are she/her
 - 👩‍💻 i have a passion for everything ux/ui design and software engineering/development!
 - 🌷 fun facts: i love baking in my free time!
-- 📫 reach out to me on [linkedIn]("www.linkedin.com/in/myrah-m")
 
 <!--
 **myrahm/myrahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
