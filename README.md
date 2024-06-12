@@ -3,8 +3,8 @@
 my name's myrah, welcome to my github profile 💗
 
 - 🌱 i'm currently a computer science at toronto metropolitan university (formerly ryerson)
-- 👩‍💻 i have a passion for everything ux/ui design and software engineering/development!
-- 🌷 fun facts: i love baking in my free time!
+- 👩‍💻 i have a passion for everything cybersecurity!
+- 🌷 fun facts: i love baking and reading manga in my free time!
 
 <!--
 **myrahm/myrahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
