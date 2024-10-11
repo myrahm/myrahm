@@ -2,7 +2,7 @@
 
 my name's myrah, welcome to my github profile 💗
 
-- 🌱 i'm currently a computer science at toronto metropolitan university (formerly ryerson)
+- 🌱 i'm currently studying computer science at toronto metropolitan university (formerly ryerson)
 - 👩‍💻 i have a passion for everything software development, data analysis and web design!
 - 🌷 fun facts: i love baking and reading in my free time!
 
