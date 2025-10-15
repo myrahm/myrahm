@@ -1,22 +1,22 @@
-### hi there 👋
+### hi there! 👋 i'm myrah
 
-my name's myrah, welcome to my github profile 💗
-
+#### 💻 about me  
 - 🌱 i'm currently studying computer science at toronto metropolitan university (formerly ryerson)
 - 👩‍💻 i have a passion for everything software development, data analysis and web design!
-- 🌷 fun facts: i love baking and reading in my free time!
+- 🌷 fun facts: i love baking and reading in my free time! 
 
-<!--
-**myrahm/myrahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱 what i’m working on  
+- course projects and assignments  
+- angular web development
+- sql bootcamp
 
-Here are some ideas to get you started:
+#### 📫 how to reach me  
+- Email: [myrah.mohammed7@gmail.com]  
+- LinkedIn: [linkedin.com/in/myrahmohammed](https://www.linkedin.com/in/myrah-m-68014b166/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📊 github stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+---
+
+feel free to check out my repos and connect 💗
