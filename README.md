@@ -15,7 +15,7 @@
 - LinkedIn: [linkedin.com/in/myrahmohammed](https://www.linkedin.com/in/myrah-m-68014b166/)  
 
 #### 📊 github stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![myrah's stats](https://github-readme-stats.vercel.app/api?username=myrahm&show_icons=true&theme=tokyonight)  
 
 ---
 
