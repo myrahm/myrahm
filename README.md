@@ -1,9 +1,9 @@
 ### hi there! 👋 i'm myrah
 
-#### 💻 about me  
-- 🌱 i'm currently studying computer science at toronto metropolitan university (formerly ryerson)
-- 👩‍💻 i have a passion for everything software development, data analysis and web design!
-- 🌷 fun facts: i love baking and reading in my free time! 
+#### 🌷 about me  
+- i'm currently studying computer science at toronto metropolitan university (formerly ryerson)
+- i have a passion for everything software development, data analysis and web design!
+- fun facts: i love baking and reading in my free time! 
 
 #### 🌱 what i’m working on  
 - course projects and assignments  
